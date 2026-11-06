@@ -164,46 +164,6 @@ Busco aprimorar meus conhecimentos em **desenvolvimento Full Stack**, arquitetur
 - Postman
 - Terminal / CLI
 
-### `./testes-e-qualidade/`
-
-- **pytest:** desenvolvimento de testes automatizados em Python.
-- **Testes unitários:** validação de funções e componentes isolados.
-- **TDD:** aplicação do ciclo Red → Green → Refactor.
-- **Padrões de Projeto (GoF):** estudo de soluções reutilizáveis para problemas de software.
-- **Boas práticas:** organização, legibilidade e manutenção do código.
-
----
-
-## `$ tree ~/projetos -L 2`
-
-```text
-~/projetos
-│
-├── 📦 gerenciamento-estoque/
-│   ├── React Native
-│   ├── Expo
-│   ├── Leitor de Código de Barras
-│   └── Supabase
-│
-├── 🔧 manutencao-veicular/
-│   ├── React
-│   ├── Vite
-│   ├── Tailwind CSS
-│   └── Persistência de Dados
-│
-├── 📚 sistema-biblioteca/
-│   ├── TypeScript
-│   ├── Node.js
-│   ├── Programação Orientada a Objetos
-│   └── Armazenamento JSON
-│
-└── 🧪 laboratorio-de-estudos/
-    ├── Testes Automatizados
-    ├── Padrões de Projeto
-    ├── Desenvolvimento Backend
-    └── Qualidade de Software
-```
-
 ---
 
 ## `$ cat ~/projetos/destaques.md`
@@ -244,26 +204,6 @@ Aplicação Web voltada à organização e ao gerenciamento de informações rel
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-
----
-
-### 📚 Sistema de Gerenciamento de Biblioteca
-
-Sistema desenvolvido em TypeScript, utilizando conceitos de Programação Orientada a Objetos e interação por terminal.
-
-**Principais funcionalidades:**
-
-- Cadastro de livros.
-- Cadastro de membros.
-- Registro de empréstimos.
-- Armazenamento de informações em JSON.
-- Navegação por menus interativos.
-
-**Tecnologias utilizadas:**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 
 ---
@@ -312,43 +252,6 @@ Sistema desenvolvido em TypeScript, utilizando conceitos de Programação Orient
 - `[>]` Em estudo ou aprimoramento
 - `[ ]` Objetivo futuro
 
----
-
-## `$ cat ~/sobre-mim.txt`
-
-```text
-Meu objetivo é evoluir constantemente como
-desenvolvedor, adquirindo experiência por
-meio de estudos, desafios e projetos reais.
-
-Acredito que aprender programação vai além
-de conhecer linguagens e frameworks.
-
-É compreender problemas, construir soluções
-e melhorar continuamente cada projeto.
-```
-
----
-
-## `$ git status`
-
-```text
-Na branch main
-
-Alterações no desenvolvimento:
-
-  modified:   conhecimentos/frontend
-  modified:   conhecimentos/backend
-  modified:   conhecimentos/mobile
-  modified:   conhecimentos/arquitetura
-  modified:   conhecimentos/devops
-
-Novos projetos:
-
-  untracked:  projetos/novas-ideias
-
-Status: Evolução contínua.
-```
 
 ---
 
