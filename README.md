@@ -18,7 +18,7 @@
 
 ---
 
-<!-- Terminal Hacker V3 • Português brasileiro -->
+
 
 ## `$ whoami`
 
@@ -50,16 +50,15 @@ Busco aprimorar meus conhecimentos em **desenvolvimento Full Stack**, arquitetur
              /\                  eduardo@developer
             /  \                 -----------------------------
            / /\ \                Formação: ADS
-          / /  \ \               Localização: Brasil
+          / /  \ \               Localização: Pelotas, Rio Grande Do Sul
          / /    \ \              Linguagens: TS, JS, Python
-        / /______\ \             Frontend: React, Tailwind
+        / /______\ \             Frontend: React
        /____________\            Mobile: React Native, Expo
                                  Backend: Node.js
                                  Banco de Dados: PostgreSQL
-                                 Nuvem: Supabase
+                                 Nuvem: Supabase e CloudFlare
                                  DevOps: Docker, Nginx
                                  Editor: VS Code
-                                 Status: Sempre evoluindo
 ```
 
 ---
@@ -82,12 +81,11 @@ Busco aprimorar meus conhecimentos em **desenvolvimento Full Stack**, arquitetur
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&amp;theme=dark" alt="Tecnologias Frontend" />
+<img src="https://skillicons.dev/icons?i=react,css,vite&amp;theme=dark" alt="Tecnologias Frontend" />
 
 </div>
 
 - **React:** desenvolvimento de interfaces com componentes reutilizáveis.
-- **Tailwind CSS:** estilização de interfaces utilizando classes utilitárias.
 - **Vite:** criação e configuração de projetos frontend.
 - **React Router:** navegação e gerenciamento de rotas em aplicações React.
 - **HTML5 e CSS3:** estruturação e estilização de páginas Web.
@@ -203,7 +201,6 @@ Aplicação Web voltada à organização e ao gerenciamento de informações rel
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 
 ---
@@ -221,36 +218,6 @@ Aplicação Web voltada à organização e ao gerenciamento de informações rel
 <img src="https://streak-stats.demolab.com?user=eduardo-timm&amp;theme=dark&amp;locale=pt_BR&amp;hide_border=true&amp;background=0D1117&amp;ring=4ADE80&amp;fire=4ADE80&amp;currStreakLabel=4ADE80" alt="Sequência de contribuições" />
 
 </div>
-
----
-
-## `$ cat ~/estudos/objetivos.txt`
-
-```text
-[✓] Fundamentos de programação
-[✓] Programação Orientada a Objetos
-[✓] Desenvolvimento com TypeScript
-[✓] Criação de interfaces com React
-[✓] Desenvolvimento mobile com React Native
-[✓] Integração com Supabase
-[✓] Prática com Docker e Nginx
-
-[>] Aprimorar conhecimentos em Backend
-[>] Aprofundar conhecimentos em SQL
-[>] Arquitetura de Software
-[>] Testes Automatizados
-[>] Padrões de Projeto
-
-[ ] Aprofundar conhecimentos em CI/CD
-[ ] Contribuir com projetos Open Source
-[ ] Desenvolver aplicações mais complexas
-```
-
-**Legenda:**
-
-- `[✓]` Conhecimento já praticado
-- `[>]` Em estudo ou aprimoramento
-- `[ ]` Objetivo futuro
 
 
 ---
