@@ -231,44 +231,5 @@ Aplicação Web voltada à organização e ao gerenciamento de informações rel
 [![E-mail](https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=4ADE80)](mailto:eduardo.edt48@gmail.com)
 
 </div>
-
----
-
-<details>
-<summary><b>📂 $ cat ~/informacoes-adicionais.txt</b></summary>
-
-<br/>
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Interesse em desenvolvimento Web e Full Stack.
-- 📱 Desenvolvimento de aplicações mobile.
-- 🧠 Estudando arquitetura e padrões de projeto.
-- 🐳 Aprimorando conhecimentos em infraestrutura.
-- 🚀 Sempre buscando aprender novas tecnologias.
-
-</details>
-
----
-
-<div align="center">
-
-### `$ echo "Obrigado pela visita!"`
-
-```bash
-eduardo@github:~$ git commit -m "Mais um passo na evolução"
-
-[main] Mais um passo na evolução
-
-eduardo@github:~$ echo "O aprendizado nunca termina."
-
-O aprendizado nunca termina.
-
-eduardo@github:~$ █
-```
-
-**`[ APRENDER • DESENVOLVER • EVOLUIR ]`**
-
-![Linha final](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=4)
-
 </div>
 
